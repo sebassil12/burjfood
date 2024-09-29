@@ -1,0 +1,14 @@
+.icon_container{
+    display: grid;
+    grid-template-columns: repeat(3, 0.1fr);
+    gap: 10%;
+    justify-content: center;
+}
+.image{
+    width: 60%;
+    padding: 10%;
+    background-color: var(--third);
+    border-radius: 25%;
+    vertical-align: middle;
+}
+

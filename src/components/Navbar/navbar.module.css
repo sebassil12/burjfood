@@ -1,0 +1,52 @@
+.nav{
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3vh;    
+    background-color: var(--bg);
+}
+
+.logo_container{
+    display: flex;
+    width: 10vw;
+    height: 10vh;
+    justify-content: space-between;
+    color: var(--secondary);
+    margin-left: 10vw;
+    align-items: center;
+    
+}
+.brand{
+    font-size: x-large;
+}
+
+.list_container{
+    display: flex;
+    list-style: none;
+    color: var(--third);
+    width: 30vw;
+    justify-content: space-between;
+    align-items: center;
+    font-size: large;
+}
+
+.link_ref{
+    text-decoration: none;
+    color: var(--third);
+}
+.but_container{
+    width: 10vw;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    margin-right: 10vw
+}
+.button{
+    background-color: var(--primary);
+    border: none;
+    border-radius: 5%;
+    color: wheat;
+    padding: 2%;
+    font-size: medium;
+}

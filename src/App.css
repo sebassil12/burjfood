@@ -1,0 +1,14 @@
+:root{
+    --bg: rgb(49, 11, 11);
+    --primary: rgb(156, 61, 84);
+    --secondary: rgb(226, 112, 58);
+    --third: rgb(238, 183, 107);
+    --marginlr: 10vw
+}
+
+body{
+    background-color: var(--bg);
+    margin: 0;
+    padding: 0;
+
+}

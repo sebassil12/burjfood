@@ -1,0 +1,31 @@
+.portada{
+    margin-top: 5vh;
+}
+
+.content{
+    margin-top: -1vh;
+    margin-left: var(--marginlr);
+    margin-right: var(--marginlr );
+
+}
+
+.social{
+    
+    height: 30vh;
+    background-color: var(--secondary);
+    margin-top: 10vh;
+    margin-left: var(--marginlr);
+    margin-right: var(--marginlr);
+    
+}
+
+.local {
+    margin-top: 5vh;
+}
+
+.footer{
+    margin-top: 10vh;
+    width: 100vw;
+    height: 40vh;
+    background-color: var(--primary);
+}
