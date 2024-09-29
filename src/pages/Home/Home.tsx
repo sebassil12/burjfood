@@ -1,5 +1,4 @@
 import BurjAward from "../../components/BurjAwards/BurjAwards";
-import BurjSocial from "../../components/BurjSocial/BurjSocial";
 import Divider from "../../components/Divider/Divider";
 import Slider from "../../components/Slider/Slider";
 import { resSlides, slides } from "../../constants/images";
